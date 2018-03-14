@@ -22,7 +22,7 @@
 其他阅读
 ----
 1，https://github.com/crownpku/Information-Extraction-Chinese/tree/master/RE_BGRU_2ATT   这个是选读的，关系抽取，也可以看看，用到了bilstm + 字级别的attention机制 以及 句子的attention机制<br/>
-   ps：这个博主最近忙于为组织做贡献--中文文本标注工具，开源项目见：https://github.com/crownpku/Chinese-Annotator  用到了主动学习（active learning），该策略主要是用尽可能少量的标注数据来训练模型，起到减少人工标注成本，一般选取标注集的策略不同决定了算法的不同，以前看过主动学习相关的，但是一直没落地的产品，希望后期自己也能参与进来<br/>
+   ps：这个博主最近忙于为组织做贡献--中文文本标注工具，开源项目见：https://github.com/crownpku/Chinese-Annotator  用到了主动学习（active learning），用尽可能少量的标注数据来训练模型，起到减少人工标注成本，一般选取标注集的策略不同决定了算法的不同，以前看过主动学习相关的，但是一直没落地的产品，希望后期自己也能参与进来<br/>
 2，attention机制的理解<br/>
     1，http://blog.csdn.net/malefactor/article/details/50550211  通俗地介绍了什么是attention，为什么用attention机制，从encode-decode这个框架阐述的，但没有对attention的种类进行不同角度的阐述<br/>
     2，http://blog.csdn.net/malefactor/article/details/50583474 是1的补充，对attention的机制类别进行了介绍，结合论文看更清楚<br/>
